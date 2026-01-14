@@ -208,7 +208,7 @@ export default function Home() {
             I'm always interested in hearing about new projects, opportunities, and learning experiences.
           </p>
           <a 
-            href="mailto:your.email@example.com" 
+            href="mailto:Lejeunedaseco064@gmail.com" 
             className="inline-block px-5 sm:px-6 lg:px-8 py-2 sm:py-2.5 lg:py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold transition text-xs sm:text-sm lg:text-base"
           >
             Send Me an Email
